@@ -4,3 +4,7 @@ Data augmentation in data analysis are techniques used to increase the amount of
 
 
 ![image1](https://raw.githubusercontent.com/Furkan179/Data-Augmentation/main/Data-Augmentation-Images/_0_7332.jpeg)
+
+![image1](https://raw.githubusercontent.com/Furkan179/Data-Augmentation/main/Data-Augmentation-Images/_0_9628.jpeg)
+
+
